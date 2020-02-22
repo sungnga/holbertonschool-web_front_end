@@ -366,16 +366,19 @@
   }
 
   /* Section BLOG ============================= */
+  
   .section-blog .row {
     flex-direction: row-reverse;
   }
   
   /* Section SERVICES ============================= */
+
   .section-services .row {
     flex-wrap: wrap;
   }
 
   /* Section ABOUT US ============================= */
+
   .section-about-us [class*='col-'] {
     align-self: center;
   }
