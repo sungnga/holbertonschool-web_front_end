@@ -525,7 +525,7 @@
     z-index: -1;
   }
 
-/*** ARTICLE PAGE ***/
+  /*** ARTICLE PAGE ***/
   /* Section HERO (article)
       ============================= */
 
@@ -545,7 +545,7 @@
     z-index: 0;
   }
 
-  .hero-article .sectin-inner {
+  .hero-article .section-inner {
     text-align: center;
     align-items: center;
     min-height: 40vh;
@@ -556,4 +556,3 @@
     padding: 7rem 0 0;
     z-index: 2;
   }
-  
